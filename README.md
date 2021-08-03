@@ -8,9 +8,9 @@
 
 ## Usage
 
-- 1) Clone a Notebook hosted on Jovian or GitHub 
-- 2) Commit a Notebook to Jovian Locally 
-- 3) Open a Live Jupyter Server
+- Clone a Notebook hosted on Jovian or GitHub 
+- Commit a Notebook to Jovian Locally 
+- Open a Live Jupyter Server
 
 ## Installation
 
