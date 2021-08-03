@@ -14,11 +14,11 @@ git clone https://github.com/karthiksuki/Jovian-Automation
 > After cloning, install the requirements by
 
 ```
-pip install -r requirements.txt
-
-(or)
-
-pip3 install -r requirements.txt
+python setup.py
+```
+or
+```
+python3 setup.py
 ```
 
 ## Contact
