@@ -6,6 +6,12 @@
 
 [Jovian](https://www.jovian.ai?utm_source) is a platform for sharing and collaboraring on Jupyter notebooks and data science projects. `jovian-py` is an open-source Python package for uploading your data science code, Jupyter notebooks, ML models, hyperparameters, metrics etc. to your Jovian account.
 
+## Usage
+
+- Clone a Notebook hosted on Jovian or GitHub 
+- Commit a Notebook to Jovian Locally
+- Open a Live Jupyter Server  
+
 ## Installation
 
 ```
@@ -14,11 +20,11 @@ git clone https://github.com/karthiksuki/Jovian-Automation
 > After cloning, install the requirements by
 
 ```
-pip install -r requirements.txt
-
+python <os>_setup.py
+```
 (or)
-
-pip3 install -r requirements.txt
+```
+python3 <os>_setup.py
 ```
 
 ## Contact
@@ -41,10 +47,3 @@ Author: <br/>
 karthikeyan G
 
 Mail : karthikeyan2021sch@gmail.com
-<br/>
-YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow)
-<br/>
-LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/karthikeyan-g-86889720b/)
-
-
-
