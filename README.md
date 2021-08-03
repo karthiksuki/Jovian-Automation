@@ -42,9 +42,7 @@ karthikeyan G
 
 Mail : karthikeyan2021sch@gmail.com
 <br/>
-YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow)
-<br/>
-LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/karthikeyan-g-86889720b/)
+
 
 
 
