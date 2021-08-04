@@ -27,6 +27,10 @@ python <os>_setup.py
 python3 <os>_setup.py
 ```
 
+Note: Please run the above script as Administrator
+- On Windows right-click on the command prompt and `Run as Administrator`
+- On Linux or Mac use `sudo` command 
+
 ## Contact
 
 Jovian:
@@ -49,6 +53,7 @@ karthikeyan G
 Mail : karthikeyan2021sch@gmail.com
 <br/>
 YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow)
+Please Subscriber my Youtube Channel, That means a lot. 
 <br/>
 LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/karthikeyan-g-86889720b/)
 
