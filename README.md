@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JovianML/jovian-py/blob/master/docs/jovian_horizontal_logo.svg" width="480">
 
-[Jovian](https://www.jovian.ai?utm_source) is a platform for sharing and collaboraring on Jupyter notebooks and data science projects. `jovian-py` is an open-source Python package for uploading your data science code, Jupyter notebooks, ML models, hyperparameters, metrics etc. to your Jovian account.
+[Jovian](https://www.jovian.ai?utm_source) is a platform for sharing and collaborating on Jupyter notebooks and data science projects. `jovian-py` is an open-source Python package for uploading your data science code, Jupyter notebooks, ML models, hyperparameters, metrics, etc. to your Jovian account.
 
 ## Usage
 
@@ -53,7 +53,7 @@ karthikeyan G
 Mail : karthikeyan2021sch@gmail.com
 <br/>
 YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow)
-Please Subscriber my Youtube Channel, That means a lot. 
+Please Subscriber to my Youtube Channel, That means a lot. 
 <br/>
 LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/karthikeyan-g-86889720b/)
 
