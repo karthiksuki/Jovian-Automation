@@ -33,7 +33,7 @@ python3 <os>_setup.py
 
 ## Contact
 
-Jovian:
+**Jovian:**
 <br/>
 Mail : hello@jovian.ai
 <br/>
@@ -47,7 +47,7 @@ LinkedIn: [LinkedIn Page](https://www.linkedin.com/company/jovianml/)
 <br/>
 Discord: [Discord Page](https://discord.com/invite/wEfFRDMc34)
 
-Author: <br/>
+**Author:** <br/>
 karthikeyan G
 
 Mail : karthikeyan2021sch@gmail.com
