@@ -377,7 +377,7 @@ try:
 
                     jupyterlabOpen = input('Folder or File Path (Optional): ')
 
-                    os.system('jupyter-lab --allow-root -y ' + jupyterlabOpen)
+                    os.system('jupyter-lab -y --allow-root ' + jupyterlabOpen)
                     print(Aftercode)
 
                 elif choix.lower() == '2' or choix.lower() == 'jupyter notebook':
@@ -391,7 +391,7 @@ try:
 
                     jupyternotebookOpen = input('Folder or File Path (Optional): ')
 
-                    os.system('jupyter-notebook --allow-root -y ' + jupyternotebookOpen)
+                    os.system('jupyter-notebook -y --allow-root ' + jupyternotebookOpen)
 
                     print(Aftercode)
                 else:
