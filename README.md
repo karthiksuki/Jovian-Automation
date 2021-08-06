@@ -28,7 +28,7 @@ python3 <os>_setup.py
 ```
 
 **Note: Run the above setup as Administrator**
-- On Windows right-click on the command prompt and `Run as Administrator`
+- On Windows Administrator privilege not mandatory 
 - On Linux or Mac use `sudo` command 
 
 ## Contact
