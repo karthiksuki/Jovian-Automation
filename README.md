@@ -17,6 +17,9 @@
 ```
 git clone https://github.com/karthiksuki/Jovian-Automation
 ```
+```
+cd Jovian-Automation 
+```
 > After cloning, install the requirements by
 
 ```
@@ -28,7 +31,7 @@ python3 <os>_setup.py
 ```
 
 **Note: Run the above setup as Administrator**
-- On Windows Administrator privilege not mandatory 
+- On Windows Administrator privilege is not mandatory 
 - On Linux or Mac use `sudo` command 
 
 ## Contact
