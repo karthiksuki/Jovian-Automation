@@ -34,7 +34,7 @@ subprocess.Popen("chmod +x /usr/local/bin/jktool", shell=True).wait()
 print("")
 print("")
 
-print("[*] Finished. Run 'jktool' to start the Jovian Framework.")
+print("[*] Finished. Run 'sudo jktool' to start the Jovian Framework.")
 
 
 
