@@ -58,6 +58,8 @@ Mail : karthikeyan2021sch@gmail.com
 YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow)
 Please Subscriber to my Youtube Channel, That means a lot. 
 <br/>
-LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/karthikeyan-g-86889720b/)
+LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/karthikeyan-g7/)
+<br/>
+Discord: [Discord Page](https://discord.gg/WggSnRv6r7)
 
 
