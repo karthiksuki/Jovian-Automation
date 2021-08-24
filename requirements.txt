@@ -2,6 +2,6 @@ jovian==0.2.41
 requests==2.26.0
 urllib3==1.26.6
 jupyterlab==3.1.1
-notebook==6.4.0
+notebook==6.4.1
 jupyter==1.0.0
 colorama==0.4.4
