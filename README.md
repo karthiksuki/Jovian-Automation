@@ -53,7 +53,7 @@ Discord: [Discord Page](https://discord.com/invite/wEfFRDMc34)
 **Author:** <br/>
 karthikeyan G
 
-Mail : karthikeyan2021sch@gmail.com
+Mail : karthikeyangan05@gmail.com
 <br/>
 YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow)
 Please Subscriber to my Youtube Channel, That means a lot. 
