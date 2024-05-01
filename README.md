@@ -55,11 +55,12 @@ karthikeyan G
 
 Mail : karthikeyangan05@gmail.com
 <br/>
-YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow)
-Please Subscriber to my Youtube Channel, That means a lot. 
+YouTube: [YouTube Channel](https://www.youtube.com/channel/UCYD196-LSX3aOajrgxj4Vow) 
 <br/>
 LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/karthikeyan-g7/)
 <br/>
 Discord: [Discord Page](https://discord.gg/WggSnRv6r7)
+<br/>
+Github: https://github.com/karthiksuki
 
 
