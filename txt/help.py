@@ -1,3 +1,5 @@
+# File contains list of help commands
+
 help = """
     Command           Description                      
     -------           -----------                      
