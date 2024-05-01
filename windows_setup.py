@@ -1,4 +1,5 @@
 # quick installer for Jovian Framework
+# Runs in windows
 
 from __future__ import print_function
 import subprocess
