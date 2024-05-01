@@ -1,4 +1,5 @@
 # quick installer for Jovian Framework
+# Run in mac
 
 from __future__ import print_function
 import subprocess
